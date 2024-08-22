@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f9d4fa8-0ef9-4472-a210-c8a6c27e117f)### Boas vindas ao meu perfil :blue_heart
-
-Meu nome é isabelle pinheiro dos santos 
+### Meu nome é isabelle pinheiro dos santos 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
